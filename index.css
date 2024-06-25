@@ -1,0 +1,15 @@
+body{
+background-color: black;
+color: white;
+}
+
+
+header{
+    text-align: center;
+}
+
+#my-photo{
+    border-radius: 64px;
+    width: 125px;
+    height: 125px;
+}
